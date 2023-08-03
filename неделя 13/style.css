@@ -1,0 +1,22 @@
+.box {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: auto;
+    padding: 10%;
+
+}
+
+.btn {
+    border-color: gray;
+    background-color: rgb(110, 207, 110);
+    width: 25vh;
+    height: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(59, 58, 58);
+}  
+
+#birthDate {
+    width: 25vh;
+    height: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
